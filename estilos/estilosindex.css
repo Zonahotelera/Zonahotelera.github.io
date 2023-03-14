@@ -1,0 +1,55 @@
+html{
+    background-color: #61F2ED;
+}
+header{
+    background-color: #75FFDF;
+    width: 92%;
+    padding: 4em;
+    
+}
+
+#logo{
+    width: 10%;
+    display: inline-block;
+    float: left;
+    margin: 1.3vw;
+}
+
+
+#Titulo{
+    width: 84%;
+    font-size: 5.5em;
+    text-align: center;
+    color: #993726;
+    font-style: bold;
+    display: inline-block;
+    float: right;
+    margin: 1.4vw;
+}
+
+#Barra{
+   clear: both;
+    
+}
+
+.ElementosBarra{
+    display: inline-block;
+    width:19%;
+    font-size: 1.3em;
+    color: #993726;
+    background-color: #E6985C;
+    text-align: center;
+    outline-style: ridge;
+}
+
+#Imagen{
+    text-align: center;
+    padding: 1.3vw;
+    background-color: #E6985C;
+    border: double 6px;
+}
+
+iframe{
+    width: 100%;
+    height: 70vw;
+}

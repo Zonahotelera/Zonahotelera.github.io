@@ -1,0 +1,55 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+header {
+  background-color: #5BD3F5;
+}
+
+#titulo {
+  color: #A8611D;
+    text-align: center;
+    font-size:5vw;
+}
+
+h2{
+    text-align: center;
+    font-size: 3vw;
+    color: #A8611D;
+}
+
+.sub {
+  color: #A8611D;
+}
+
+p {
+  color: #495057;
+    font-size: 1.7em;
+    font-family:cursive;
+}
+
+
+strong {
+  color: #212529;
+}
+
+.palabra {
+  font-weight: bold;
+}
+
+
+figure img {
+  border: 5px solid #5BD3F5;
+  
+}
+
+img{
+    display:inline-block;
+   text-align: center;
+    clear: both;
+    width: 25%;
+}
+
+
+
